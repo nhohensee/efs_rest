@@ -5,4 +5,4 @@ venv
 db.SQLITE3
 /static
 .DS_Store
-.idea/*
+efs_rest/.idea/*
